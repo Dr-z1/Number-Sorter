@@ -1,38 +1,57 @@
-# Number-Sorter
-Number Sorter - Arrange The Numbers From Essential To Highest.
+# **Number Sorter Project**
+
+## **Project Overview**
 
 
-Learn Basic Algorithmic Thinking by Building a Number Sorter 
+#### This Project Is A **Number Sorter**, Developed As Part of The FreeCodeCamp Curriculum. 
+
+#### The Primary Goal Is You Learn Basic Algorithmic Thinking By Building A Number Sorter
+
+
+## **Course Details**
+
+
++ **Course Section**: JavaScript Algorithms and Data Structures (Beta).
+  
++ **Project Name**: Number Sorter.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
+  
+
+## **Purpose**
+
+In Computer Science, There Are Fundamental Sorting Algorithms That All Developers Should Learn. 
+
+In This Number Sorter Project, You'll Learn How To Implement And Visualize Different Sorting Algorithms Like Bubble Sort, Selection Sort, And Insertion Sort – All With JavaScript.  
+
+This Project Will Help You Understand The Fundamental Concepts Behind These Algorithms, And How You Can Apply Them To Sort Numerical Data In Web Applications.
 
 
 
-This website was built using Free Code Camp instructions: Learn Basic Algorithmic Thinking by Building a Number Sorter 
+## **Acknowledgment**
 
 
-Section: JavaScript Algorithms and Data Structures (Beta)
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
+
+All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
+
+I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
+
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
+
+## **Special Thanks**
+
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
+
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
 
 
-Course Name: Learn Basic Algorithmic Thinking by Building a Number Sorter 
 
 
-
-Deatils: In computer science, there are fundamental sorting algorithms that all developers should learn. 
-
-In this number sorter project, you'll learn how to implement and visualize different sorting algorithms like bubble sort, selection sort, 
-
-and insertion sort – all with JavaScript.
-
-This project will help you understand the fundamental concepts behind these algorithms, and how you can apply them to sort numerical data in web applications.
-
-WebSite Link:
-
-https://www.freecodecamp.org/
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
-
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
-
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
-
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
